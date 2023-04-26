@@ -14,16 +14,11 @@
   </a>
 </p>
 
-<p align="center">
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=morgan09mj&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
-  
-  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" />
-</p>
-
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=morgan09mj&show_icons=true&theme=ayu-mirage&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=morgan09mj&theme=ayu-mirage&hide_border=true" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=morgan09mj&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
+  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
