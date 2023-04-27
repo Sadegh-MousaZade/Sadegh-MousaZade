@@ -1,6 +1,26 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morgan09mj&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad8017" /> </p>
+<br>
+
 <h1 align="center">Hi 👋, I'm M.Sadegh mousazade</h1>
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A Machine Learning and Deep Learning developer
+- Currently learning RL and Django by Self
+- Computer engineer student in Iran University of Science and Technology (IUST)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f03c15&background=FF2D8300&center=true&width=435&lines=A+CE+Undergrad+Student;An+Game+ Development+Enthusiast" alt="my-intro" />
