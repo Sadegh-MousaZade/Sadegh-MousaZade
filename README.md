@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm M.Sadegh mousazade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f03c15&background=FF2D8300&center=true&width=435&lines=A+CE+Undergrad+Student;An+Game+ Development+Enthusiast" alt="my-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2336BCF7&background=FF2D8300&center=true&width=435&lines=A+CE+Undergrad+Student;An+Game+ Development+Enthusiast" alt="my-intro" />
   
 </p>
 
@@ -56,12 +56,12 @@
 
 [![morgan09mj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morgan09mj&theme=github-compact)](https://github.com/morgan09mj/github-readme-activity-graph)
 
-<!--   profile-green-animate -->
+<!--   profile-green-animate
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
+<!--   grid-snake
 ![](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
-
+-->
 </p>
 <br>
 
