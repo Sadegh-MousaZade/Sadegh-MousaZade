@@ -8,7 +8,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm M.Sadegh mousazade</h1>
+<h1 align="center">Hi 👋, I'm M.Sadegh Mousazade</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2336BCF7&background=FF2D8300&center=true&width=435&lines=A+CE+Undergrad+Student;An+Game+ Development+Enthusiast" alt="my-intro" />
