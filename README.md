@@ -54,11 +54,9 @@
   <img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" />
     <img img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=morgan09mj&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true"/>
 
-[![morgan09mj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![morgan09mj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morgan09mj&theme=github-compact)](https://github.com/morgan09mj/github-readme-activity-graph)
 
-| ![morgan09mj's github stats](https://github-readme-stats.vercel.app/api?username=morgan09mj&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=morgan09mj"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
