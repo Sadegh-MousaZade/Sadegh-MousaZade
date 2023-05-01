@@ -56,8 +56,6 @@
 
 [![morgan09mj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morgan09mj&theme=github-compact)](https://github.com/morgan09mj/github-readme-activity-graph)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=morgan09mj"></img>
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
