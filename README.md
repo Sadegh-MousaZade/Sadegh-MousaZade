@@ -1,6 +1,6 @@
 <div align="center" >
  
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&weight=100&color=gradient)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
  </div>
 
