@@ -76,9 +76,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align=center>
-
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
 </div>
 
 ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
