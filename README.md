@@ -34,6 +34,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 <br>
 
 - Computer engineer student in Iran University of Science and Technology (IUST)
@@ -80,7 +81,7 @@
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 </div>
 
-![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
  
