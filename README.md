@@ -22,7 +22,7 @@
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
   </a>
  
-  &nbsp;&nbsp;
+<!--  &nbsp;&nbsp; -->
   <a href="https://www.instagram.com/morgan_.fs" title="Instagram">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
   </a>
