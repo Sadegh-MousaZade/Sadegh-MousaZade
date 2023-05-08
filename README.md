@@ -39,7 +39,6 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
 - Computer engineer student in Iran University of Science and Technology (IUST)
 - Learning to game development
 - front end developer
