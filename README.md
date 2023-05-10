@@ -39,7 +39,9 @@
 
 <br>
 - Computer engineer student in Iran University of Science and Technology (IUST)
+- 
 - Learning to game development
+- 
 - front end developer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
