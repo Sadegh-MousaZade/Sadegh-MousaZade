@@ -1,3 +1,8 @@
+<table align="right">
+ <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/isyuricunha/isyuricunha/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
+</table>
+
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header"/>
@@ -38,6 +43,8 @@
 <!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
 
 <br>
+
+<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
 
 - Computer engineer student in Iran University of Science and Technology (IUST)
 - Learning to game development
@@ -83,8 +90,26 @@
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 </div>
 
+<details>
+ <summary>Profile visitors</summary>
+ 
+  <p align="center">:round_pushpin: Profile visitors</p>
+   
+   <div align="center">
+                      <a href="https://github.com/isyuricunha">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
+   </div>
+</details>
+
 <!-- ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg) -->
 
+  <br>
+    <div align="center">
+      <a href="https://github.com/isyuricunha">
+       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isyuricunha&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+ 
+ 
 <div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
