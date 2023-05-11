@@ -103,11 +103,6 @@
 
 <!-- ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg) -->
 
-  <br>
-    <div align="center">
-      <a href="https://github.com/morgan09mj">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
  
  
 <div>
