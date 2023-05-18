@@ -1,13 +1,14 @@
-<table align="right">
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
-</table>
 
 <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header"/>
  
  </div>
+
+<table align="right">
+ <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morgan09mj&label=Profile%20views&color=0e75b6&style=flat" alt="morgan09mj" />
 </p>
