@@ -14,7 +14,6 @@
 
 <br>
 
-
 <h1 align="center">Hi 👋, I'm M.Sadegh Mousazade</h1>
 
 <p align="center">
