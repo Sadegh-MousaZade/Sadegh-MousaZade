@@ -94,6 +94,52 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=morgan09mj" width="auto"></img>
 
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+<!-- Belarus - My Home-->
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+```
+
+
+
+
+
+
+<p align="center"> 
+
+<img src="./src/credly0.png" alt="ibm" width="100%">
+<img src="./src/credly1.png" alt="ibm" width="100%">
+<img src="./src/credly2.png" alt="ibm" width="100%">
+</p>
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
