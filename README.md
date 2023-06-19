@@ -80,17 +80,17 @@
 <br>
 
 
-<!--   profile-green-animate -->
+<!--   profile-green-animate 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
+<!--   grid-snake 
 ![](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
+<!--  2d history skills 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=morgan09mj" width="auto"></img>
 
 
@@ -99,7 +99,7 @@
 
 
 
-<!-- Belarus - My Home-->
+<!-- Belarus - My Home
   
  ```geojson
 {
@@ -136,8 +136,9 @@
 <img src="./src/credly0.png" alt="ibm" width="100%">
 <img src="./src/credly1.png" alt="ibm" width="100%">
 <img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
+</p> 
 
+-->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
