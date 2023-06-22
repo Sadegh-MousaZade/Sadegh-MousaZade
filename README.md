@@ -22,18 +22,29 @@
   
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="m.s.mousazade09@gmail.com" title="Email">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
    
   </a>
  
 <!--  &nbsp;&nbsp; -->
-  <a href="https://www.instagram.com/morgan_.fs" title="Instagram">
+ <!-- <a href="https://www.instagram.com/morgan_.fs" title="Instagram">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
   </a>
  
-</p>
+</p> -->
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyyedaliayati/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morgan_.fs/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.s.mousazade09@gmail.com)
+  
+</div>
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
