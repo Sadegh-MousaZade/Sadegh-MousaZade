@@ -171,9 +171,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align=center>
+<!-- <div align=center>
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-</div>
+</div> -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=morgan09mj&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Reviews" alt="Followers, Commits, Stars, Repositories, PullRequest">
+</p>
+
 
 <details>
  <summary>Profile visitors</summary>
