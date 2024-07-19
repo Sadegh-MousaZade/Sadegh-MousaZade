@@ -6,12 +6,12 @@
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/main/readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
 
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morgan09mj&label=Profile%20views&color=0e75b6&style=flat" alt="morgan09mj" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sadegh-MousaZade&label=Profile%20views&color=0e75b6&style=flat" alt="Sadegh-MousaZade" />
 </p>
 
 <br>
@@ -74,27 +74,27 @@
 <br>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=morgan09mj&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=morgan09mj&theme=ayu-mirage&hide_border=true" />
-<!--   <img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgan09mj&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" /> -->
-<!--     <img img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=morgan09mj&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" /> -->
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=ayu-mirage&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadegh-MousaZade&theme=ayu-mirage&hide_border=true" />
+<!--   <img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadegh-MousaZade&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" /> -->
+<!--     <img img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Sadegh-MousaZade&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" /> -->
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morgan09mj&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadegh-MousaZade&theme=default)
 
 
 
 
 
 
-<!-- [![morgan09mj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=morgan09mj&theme=github-compact)](https://github.com/morgan09mj/github-readme-activity-graph) -->
+<!-- [![Sadegh-MousaZade's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sadegh-MousaZade&theme=github-compact)](https://github.com/Sadegh-MousaZade/github-readme-activity-graph) -->
 
 <!--   profile-green-animate
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake
-![](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/output/github-contribution-grid-snake.svg)
 -->
 </p>
 <br>
@@ -104,14 +104,14 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake 
-![](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
 <!--  2d history skills 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=morgan09mj" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sadegh-MousaZade" width="auto"></img>
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
@@ -179,7 +179,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=morgan09mj&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Reviews" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=Sadegh-MousaZade&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage,Reviews" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 
 
@@ -189,12 +189,12 @@
   <p align="center">:round_pushpin: Profile visitors</p>
    
    <div align="center">
-                      <a href="https://github.com/morgan09mj">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/morgan09mj/count.svg">
+                      <a href="https://github.com/Sadegh-MousaZade">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Sadegh-MousaZade/count.svg">
    </div>
 </details>
 
-<!-- ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/output/github-contribution-grid-snake.svg) -->
 
  
  
