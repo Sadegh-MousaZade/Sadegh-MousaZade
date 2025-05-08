@@ -63,12 +63,12 @@
     </td>
 
 
-
+<td>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=radical" alt="Sadegh GitHub Stats">
-
-
+</td>
+<td>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sadegh-MousaZade&theme=tokyonight">
-
+</td>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadegh-MousaZade&theme=default)
 
