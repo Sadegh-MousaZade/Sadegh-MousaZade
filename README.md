@@ -48,34 +48,13 @@
 </div>
 
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
-
-<br>
-
-<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
-
-- Computer engineer student in Iran University of Science and Technology (IUST)
-- Learning to game development
-- front end developer
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
-
-</br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
 
-<p align="left">
+<!--  <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=ayu-mirage&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadegh-MousaZade&theme=ayu-mirage&hide_border=true" />
 <!--   <img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadegh-MousaZade&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" /> -->
@@ -83,84 +62,22 @@
 
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhza&show_icons=true&theme=radical" alt="Bruno Henrique GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhza&theme=tokyonight">
+    </td>
+  </tr>
+</table>
+
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadegh-MousaZade&theme=default)
 
-
-
-
-
-
-<!-- [![Sadegh-MousaZade's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sadegh-MousaZade&theme=github-compact)](https://github.com/Sadegh-MousaZade/github-readme-activity-graph) -->
-
-<!--   profile-green-animate
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake
-![](https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/output/github-contribution-grid-snake.svg)
--->
-</p>
-<br>
-
-
-<!--   profile-green-animate 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake 
-![](https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sadegh-MousaZade" width="auto"></img>
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-<!-- Belarus - My Home
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-
-
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p> 
-
--->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -187,6 +104,34 @@
 
 <details>
  <summary>Profile visitors</summary>
+
+
+
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+## 🎉 **About me**
+
+<!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
+
+<br>
+
+<img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
+
+- Computer engineer student in Iran University of Science and Technology (IUST)
+- Learning to game development
+- Backend developer
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
+
+</br>
+
+
+ 
  
   <p align="center">:round_pushpin: Profile visitors</p>
    
