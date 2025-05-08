@@ -18,12 +18,16 @@
 <h1 align="center">Hi 👋, I'm M.Sadegh Mousazade</h1>
 
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p>
     <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/Sadegh-MousaZade/Sadegh-MousaZade?color=blue"></a>
     <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/stargazers"><img width=95px src="https://img.shields.io/github/stars/Sadegh-MousaZade/Sadegh-MousaZade?logo=github"></a>
     <a href="https://github.com/bhza/Sadegh-MousaZade/network/members"><img width=95px src="https://img.shields.io/github/forks/Sadegh-MousaZade/Sadegh-MousaZade.svg?color=blue&logo=github"></a>
-    <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=Sadegh-MousaZade" alt="visitors"/>   
+    <a <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=Sadegh-MousaZade" alt="visitors"/></a>
 </p>
 
 <!-- <p align="center">
