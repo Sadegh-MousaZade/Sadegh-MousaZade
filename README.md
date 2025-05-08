@@ -23,7 +23,6 @@
     <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/Sadegh-MousaZade/Sadegh-MousaZade?color=blue"></a>
     <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/stargazers"><img width=95px src="https://img.shields.io/github/stars/Sadegh-MousaZade/Sadegh-MousaZade?logo=github"></a>
     <a href="https://github.com/bhza/Sadegh-MousaZade/network/members"><img width=95px src="https://img.shields.io/github/forks/Sadegh-MousaZade/Sadegh-MousaZade.svg?color=blue&logo=github"></a>
-    <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=Sadegh-MousaZade" alt="visitors"/>
 </p>
 
 <!-- <p align="center">
