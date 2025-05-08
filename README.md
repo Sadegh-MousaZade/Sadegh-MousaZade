@@ -17,9 +17,20 @@
 
 <h1 align="center">Hi 👋, I'm M.Sadegh Mousazade</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&background=FF2D8300&center=true&width=435&lines=A+CE+Undergrad+Student;An+Game+ Development+Enthusiast" alt="my-intro" />
-  
+<p>
+    <a href="https://github.com/bhza/bhza"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/bhza/bhza/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/bhza/bhza/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/bhza/bhza/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
+</p>
+
+<p>
+    <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade"><img width=120px src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/graphs/contributors"><img width=110px src="https://img.shields.io/github/contributors/bhza/bhza?color=blue"></a>
+    <a href="https://github.com/Sadegh-MousaZade/Sadegh-MousaZade/stargazers"><img width=95px src="https://img.shields.io/github/stars/bhza/bhza.svg?logo=github"></a>
+    <a href="https://github.com/bhza/Sadegh-MousaZade/network/members"><img width=95px src="https://img.shields.io/github/forks/bhza/bhza.svg?color=blue&logo=github"></a>
+    <img width=105px src="https://visitor-badge.laobi.icu/badge?page_id=bhza" alt="visitors"/>   
 </p>
 
 <!-- <p align="center">
