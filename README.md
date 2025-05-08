@@ -54,29 +54,20 @@
 
 <br>
 
-<!--  <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=ayu-mirage&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadegh-MousaZade&theme=ayu-mirage&hide_border=true" />
-<!--   <img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadegh-MousaZade&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" /> -->
-<!--     <img img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Sadegh-MousaZade&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" /> -->
 
-
-
-<table>
-  <tr>
-    <td>
+    <br>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=radical" alt="Sadegh GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sadegh-MousaZade&theme=tokyonight">
     </td>
-    <td>
-     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadegh-MousaZade&theme=default)
-    </td>
-  </tr>
-</table>
 
 
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sadegh-MousaZade&show_icons=true&theme=radical" alt="Sadegh GitHub Stats">
+
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sadegh-MousaZade&theme=tokyonight">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadegh-MousaZade&theme=default)
