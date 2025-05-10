@@ -75,7 +75,7 @@
 
 ---
 
-[![Sadegh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sadegh-MousaZade)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadegh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sadegh_MousaZade)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
